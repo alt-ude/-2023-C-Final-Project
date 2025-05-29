@@ -1,0 +1,36 @@
+﻿  main.c
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(62,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(74,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(74,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(86,17): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(86,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(86,17): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(86,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(119,11): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(119,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(119,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(119,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(193,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(193,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(201,11): warning C4098: 'writelist': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(208,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(208,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(208,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(208,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(222,17): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(222,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(222,17): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(222,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(236,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(236,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(243,11): warning C4098: 'MiniGame': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(252,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(257,17): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(257,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(257,17): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(257,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(267,11): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(267,11): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\Final Project\main.c(246,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  소스.cpp
+  Final Project.vcxproj -> C:\Users\fasun\OneDrive\바탕 화면\2023-1\Final Project\Final Project\x64\Debug\Final Project.exe
